@@ -38,7 +38,6 @@ class MainActivity : AppCompatActivity() {
         Log.d("CONSULTA", resultado.toString())
 
         Log.d("CONSULTA", potencia(numero, exponente))*/
-
     }
 }
 /*private fun potencia(num: Int, exp: Int): String{
